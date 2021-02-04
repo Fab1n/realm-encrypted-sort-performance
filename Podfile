@@ -4,10 +4,10 @@ use_modular_headers!
 
 target 'RealmPerformance' do
   platform :ios, '12.0'
-  pod 'RealmSwift', '= 10.1.4'
+  pod 'RealmSwift', '= 10.5.1'
 end
 
 target 'macOS' do
   platform :macos, '10.14'
-  pod 'RealmSwift', '= 10.1.4'
+  pod 'RealmSwift', '= 10.5.1'
 end
